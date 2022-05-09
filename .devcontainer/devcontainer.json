@@ -4,7 +4,7 @@
   "postCreateCommand": "npm install",
   "postStartCommand": "npm start",
   "workspace": {
-    "view": "README.md", // Displays the project's readme in a sidebar
+    "view": "readme", // Displays the project's readme in a sidebar
     "files": [
       "package.json", // Specify an array of files you'd like to auto-open
       "LICENSE",
